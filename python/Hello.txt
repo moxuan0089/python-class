@@ -1,0 +1,6 @@
+def Hello(times=1):
+    for t in range(times):
+        print('Hello~')
+    print('================')
+
+Hello()

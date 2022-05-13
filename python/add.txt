@@ -1,0 +1,9 @@
+def add(x,y):
+    return x+y,x-y,x*y,x/y,x%y
+
+z1, z2, z3, z4, z5 = add(10, 3)
+print(z1)
+print(z2)
+print(z3)
+print(z4)
+print(z5)
